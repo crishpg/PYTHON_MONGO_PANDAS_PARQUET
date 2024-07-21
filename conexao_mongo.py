@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 import json
 from bson.json_util import dumps
 # Conectar-se ao MongoDB Atlas
-client = MongoClient("mongodb+srv://admin:adm33ACC@cluster0.gd3uo2d.mongodb.net/meudb")
+client = MongoClient("mongodb+srv://usuario:senha@cluster0.gd3uo2d.mongodb.net/meudb")
 db = client["meudb"]
 collection = db["product"]
 
