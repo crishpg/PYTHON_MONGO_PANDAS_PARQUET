@@ -1,0 +1,65 @@
+[
+  {
+    "_id": {
+      "$oid": "63ce7c4c2cd11da3bf6ce50d"
+    },
+    "product_name": "Surgical Gloves",
+    "product_no": "pr007",
+    "product_description": "hand gloves",
+    "product_qty": 340
+  },
+  {
+    "_id": {
+      "$oid": "63ce7c4c2cd11da3bf6ce50c"
+    },
+    "product_name": "N306 Mask",
+    "product_no": "pr006",
+    "product_description": "respirator mask",
+    "product_qty": 340
+  },
+  {
+    "_id": {
+      "$oid": "63ce7c4c2cd11da3bf6ce510"
+    },
+    "product_name": "B3T Barrier",
+    "product_no": "pr011",
+    "product_description": "Breathing Barrier",
+    "product_qty": 500
+  },
+  {
+    "_id": {
+      "$oid": "63ce7c4c2cd11da3bf6ce50b"
+    },
+    "product_name": "N95 Mask",
+    "product_no": "pr005",
+    "product_description": "face mask",
+    "product_qty": 500
+  },
+  {
+    "_id": {
+      "$oid": "63ce7c4c2cd11da3bf6ce50e"
+    },
+    "product_name": "Coolo Goggles",
+    "product_no": "pr008",
+    "product_description": "Ski goggles",
+    "product_qty": 500
+  },
+  {
+    "_id": {
+      "$oid": "63ce7c4c2cd11da3bf6ce50f"
+    },
+    "product_name": "N240 Gloves",
+    "product_no": "pr010",
+    "product_description": "Nonlatex gloves",
+    "product_qty": 700
+  },
+  {
+    "_id": {
+      "$oid": "669d869be2b5a39d62446928"
+    },
+    "product_name": "Caderno",
+    "product_no": "nor00",
+    "product_description": "Caneta big Azul",
+    "product_qty": 3
+  }
+]
